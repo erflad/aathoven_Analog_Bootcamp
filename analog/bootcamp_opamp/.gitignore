@@ -1,0 +1,6 @@
+/build/schematic/spice/
+/output/
+/schematics/tb_cmrr
+*.bak
+*.swp
+*:Zone.Identifier
